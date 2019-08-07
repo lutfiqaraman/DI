@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace BasicTool.Models
 {
-    public static class AutoFacConfiguration
+    public static class AutoFacConfig
     {
         public static void DIConfiguration()
         {

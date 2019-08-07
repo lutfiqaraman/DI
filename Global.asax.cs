@@ -15,7 +15,7 @@ namespace BasicTool
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
 
-            AutoFacConfiguration.DIConfiguration();
+            AutoFacConfig.DIConfiguration();
         }
     }
 }
