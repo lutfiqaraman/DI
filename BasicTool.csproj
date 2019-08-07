@@ -106,7 +106,6 @@
     <Compile Include="AutoFacConfiguration\AutoFacConfig.cs" />
     <Compile Include="Models\IValueCalculator.cs" />
     <Compile Include="Models\LinqValueCalculator.cs" />
-    <Compile Include="Models\ListofProducts.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ShoppingCart.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
